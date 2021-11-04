@@ -5,11 +5,27 @@ Sophomore year project
 
 
 * [Overview/Description](#Overview)
-* [Python_Dice_Roller](#PythonDiceRoller)
-* [Python_Dice_Roller](#PythonDiceRoller)
-* [Python_Dice_Roller](#PythonDiceRoller)
+* [Planning](#Planning)
+* [Python_Dice_Roller](#Final_Product)
+* [Conclusion](#Conclusion)
 
 
 ### Overview
 
+
+
+
+## Planning
+
+### Scheduel:
+
+### Resources:
+
+## Final Product
+
+### Solid works:
+
+### Real Project:
+
+## Conclusion
 
