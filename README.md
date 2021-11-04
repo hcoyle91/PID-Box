@@ -12,7 +12,7 @@ Sophomore year project
 
 ## Overview
 
-### Requirments
+### Requirments:
 
 
 
