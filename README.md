@@ -2,6 +2,9 @@
 Sophomore year project
 By: Henry Coyle and Lucas Fuller
 
+<img src="" width="350" height="300" />
+
+
 #### Table of Contents
 
 
