@@ -32,6 +32,11 @@ Our goal in this project is to create a box that contains a motor, a potentiomet
 * The switch activates the LED
 * The potentiometer controls the speed at which the motor spins.
 
+Constraints:
+We want to complete our project before the end of the quarter, and with winter break interrupting the quarter, we may be pressed for time when we return. 
+This will be our first time writing PID code, so it may be difficult for us.
+This project will be the first time we have laser cut and 3D print since last year, so it may be difficult for us when the time comes to complete these tasks. 
+
 
 ## CAD
 
