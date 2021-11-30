@@ -2,7 +2,7 @@
 Sophomore year project
 By: Henry Coyle and Lucas Fuller
 
-<img src="" width="350" height="300" />
+<img src="https://github.com/hcoyle91/PID-Box/blob/main/PID%20final2.jpeg" width="350" height="300" />
 
 
 #### Table of Contents
