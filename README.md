@@ -53,6 +53,6 @@ Final CAD design:
 Reflection:
 Because of COVID, me and Lucas were forced to end the project in the middle of figuring out the code. This PID box had finished wirinig and was completely configured. We got the DC motor to run but the PID mesurments were not being shown on the LCD screen.
 
-<img src="https://github.com/hcoyle91/PID-Box/blob/main/PID%20final1.jpeg" width="350" height="300" />
+<img src="https://github.com/hcoyle91/PID-Box/blob/main/PID%20final1.jpeg" width="200" height="300" />
 
 
